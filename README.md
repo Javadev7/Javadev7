@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, my name is Aldo Javier Loayza</h1>
-<h3 align="center">I'm Full-stack developer</h3>
+<h2 align="center">I'm Full-stack developer</h2>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
-- 🌱 I’m recently learned **Typescript** and now im focus in **Next.js 13.0 and .Net**
+- 🌱 I’m recently learned **Typescript** and now im focus in **.Net**
 
 - 👨‍💻 Some of my projects are available in [my Porfolio](https://aldoloayza.netlify.app/)
 
@@ -275,7 +275,7 @@
     />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=javadev7&layout=compact&theme=juicyfresh" align="center" alt="javadev7" width="50%" />
   </a> 
