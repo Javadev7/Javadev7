@@ -277,11 +277,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=javadev7&layout=compact&theme=juicyfresh" align="center" alt="javadev7" width="50%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=javaloayza&layout=compact&theme=juicyfresh" align="center" alt="javaloayza" width="50%" />
   </a> 
 </p>
-<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=javadev7&show_icons=true&locale=en&layout=compact&theme=dark" alt="javadev7" /></p>
+<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=javaloayza&show_icons=true&locale=en&layout=compact&theme=dark" alt="javaloayza" /></p>
 
-<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=javadev7&show_icons=true&locale=en&theme=dark" alt="javadev7" /></p>
+<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=javaloayza&show_icons=true&locale=en&theme=dark" alt="javaloayza" /></p>
 
-<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=javadev7&&theme=dark" alt="javadev7" /></p>
+<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=javaloayza&&theme=dark" alt="javaloayza" /></p>
