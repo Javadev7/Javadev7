@@ -14,6 +14,8 @@
 
 - ⚡I'm interesting in **Full-stack role**
 
+- ⚡I worked in project development at **NoCountry** <img align="center" src="https://uploads-ssl.webflow.com/62cc216ce23f79c10bc88169/63973e99052373b810cce94b_Branding%20NC-06.png" height="30" width="40" />
+
 - ⚡I'm working in **idForIdeas** <img align="center" src="https://idforideas.com/img/logo.png" height="30" width="40" />
 
 <h3 align="left">Connect with me:</h3>
