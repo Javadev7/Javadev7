@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Aldo Javier Loayza</h1>
-<h2 align="center">I'm Full-stack developer</h2>
+<h2 align="center">I'm Fullstack developer</h2>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
 - 🌱 I’m recently learned **Typescript** and now I'm focus in **.Net**
