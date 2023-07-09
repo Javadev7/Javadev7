@@ -122,7 +122,7 @@
       src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
       alt="Hugo"
       width="70"
-      height="70"
+      height="50"
     />
   </a>
 </p>
@@ -148,7 +148,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="50"
+      width="70"
       height="50"
     />
   </a>
@@ -188,7 +188,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="50"
+      width="70"
       height="50"
     />
   </a>
@@ -196,7 +196,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack"
-      width="50"
+      width="70"
       height="50"
     />
   </a>
