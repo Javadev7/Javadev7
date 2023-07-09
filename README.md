@@ -117,6 +117,14 @@
       height="50"
     />
   </a>
+  <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
+      alt="Hugo"
+      width="50"
+      height="50"
+    />
+  </a>
 </p>
 <h3 align="center">Back end</h3>
 <p align="center">
