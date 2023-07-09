@@ -254,7 +254,7 @@
   </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://babeljs.io/img/ogImage.png"
+      src="https://www.svgrepo.com/show/439072/babel.svg"
       alt="babel"
       width="50"
       height="50"
