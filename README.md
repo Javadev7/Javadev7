@@ -2,7 +2,7 @@
 <h2 align="center">I'm Fullstack developer</h2>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
-- 🌱 I’m recently learned **Typescript** and now I'm focus in **C#**
+- 🌱 I’m recently learned **Typescript** and now I'm focus in **.Net**
 
 - 👨‍💻 Some of my projects are available in [my Porfolio](https://aldoloayza.netlify.app/)
 
@@ -176,10 +176,10 @@
       height="50"
     />
   </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      alt="NextJs"
       width="50"
       height="50"
     />
@@ -192,11 +192,11 @@
       height="50"
     />
   </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      src="https://learn.microsoft.com/en-us/media/logos/logo_net.svg"
       alt="webpack"
-      width="70"
+      width="50"
       height="50"
     />
   </a>
@@ -246,8 +246,8 @@
   </a>
         <a href="https://es.wikipedia.org/wiki/Windows_10" target="_blank" rel="noreferrer">
     <img
-      src="https://kb.rolosa.com/wp-content/uploads/2020/03/windows-10-logo-6.png"
-      alt="w10"
+      src="https://es.wikipedia.org/wiki/Windows_11"
+      alt="windows"
       width="50"
       height="50"
     />
@@ -280,6 +280,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp"
+      alt="docker"
       width="40"
       height="40"
     />
