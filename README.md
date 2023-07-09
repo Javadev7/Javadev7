@@ -248,7 +248,7 @@
     <img
       src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1-640x363.png"
       alt="windows"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
