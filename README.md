@@ -178,7 +178,7 @@
   </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
       alt="NextJs"
       width="50"
       height="50"
@@ -244,9 +244,9 @@
       height="50"
     />
   </a>
-        <a href="https://es.wikipedia.org/wiki/Windows_10" target="_blank" rel="noreferrer">
+        <a href="https://es.wikipedia.org/wiki/Windows_11" target="_blank" rel="noreferrer">
     <img
-      src="https://es.wikipedia.org/wiki/Windows_11"
+      src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1-640x363.png"
       alt="windows"
       width="50"
       height="50"
@@ -288,7 +288,7 @@
     <img
       src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp"
       alt="docker"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
