@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available in [my Porfolio](https://aldoloayza.netlify.app/)
 
-- 💬 Ask me about **React, Javascript, Node, and Typescript**
+- 💬 Ask me about **React, Javascript, Node, SQL and Typescript**
 
 - 📫 How to reach me **jloayzag7@gmail.com**
 
