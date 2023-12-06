@@ -12,7 +12,7 @@
 
 <!-- - 📄 Know about my experiences [>CV<]() -->
 
-- ⚡I'm interesting in **Full-stack role**
+- ⚡I'm interesting in **Fullstack role**
 
 - ⚡I worked in project development at <img align="center" src="https://uploads-ssl.webflow.com/62cc216ce23f79c10bc88169/63973e99052373b810cce94b_Branding%20NC-06.png" height="30" width="70" />
 
