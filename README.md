@@ -128,6 +128,9 @@
       />
     </a>
   </div>
+
+</td><td valign="top" width="33%">
+
   <h3 align="center">Back end</h3>
   <div align="center">
       <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
@@ -203,6 +206,9 @@
       />
     </a>
   </div>
+
+</td><td valign="top" width="33%">
+
   <h3 align="center">Tools</h3>
 
   <div align="center">
