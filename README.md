@@ -302,6 +302,4 @@
 
 <p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=javaloayza&show_icons=true&locale=en&theme=dark" alt="javaloayza" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=javaloayza&theme=dark" alt="GitHub Streak" /></a>
-
-<!--<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com?user=javaloayza&theme=dark" alt="javaloayza" /></p>  ->
+<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com?user=javaloayza&theme=dark" alt="javaloayza" /></p> 
