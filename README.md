@@ -244,14 +244,14 @@
         height="50"
       />
     </a>
-        <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
+     <!--   <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
       <img
         src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.19.1/1663361559511/Microsoft.VisualStudio.Services.Icons.Default"
         alt="thunderclient"
         width="50"
         height="50"
       />
-    </a>
+    </a> -->
           <a href="https://es.wikipedia.org/wiki/Windows_11" target="_blank" rel="noreferrer">
       <img
         src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1-640x363.png"
