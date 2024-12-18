@@ -72,7 +72,6 @@
       />
     </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-         // src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       <img
         src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
         alt="bootstrap"
