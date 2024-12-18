@@ -143,7 +143,7 @@
   <div align="center">
       <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
       <img
-        src="https://static.cdnlogo.com/logos/n/88/nodejs.svg"
+        src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png"
         alt="nodejs"
         width="50"
         height="50"
