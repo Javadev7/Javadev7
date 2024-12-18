@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available in [my Porfolio](https://aldoloayza.netlify.app/)
 
-- 💬 Ask me about **React, Javascript,Next, Node, SQL and Typescript**
+- 💬 Ask me about **React, Angular, Javascript, NextJS, NodeJS, SQL and Typescript**
 
 - 📫 How to reach me **jloayzag7@gmail.com**
 
@@ -99,6 +99,14 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://cyrilletuzi.gallerycdn.vsassets.io/extensions/cyrilletuzi/angular-schematics/6.21.0/1733912506925/Microsoft.VisualStudio.Services.Icons.Default"
+        alt="angular"
         width="50"
         height="50"
       />
