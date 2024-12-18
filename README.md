@@ -72,8 +72,9 @@
       />
     </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+         // src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
         alt="bootstrap"
         width="50"
         height="50"
@@ -103,7 +104,7 @@
         height="50"
       />
     </a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics" target="_blank" rel="noreferrer">
+      <a href="https://angular.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://cyrilletuzi.gallerycdn.vsassets.io/extensions/cyrilletuzi/angular-schematics/6.21.0/1733912506925/Microsoft.VisualStudio.Services.Icons.Default"
         alt="angular"
