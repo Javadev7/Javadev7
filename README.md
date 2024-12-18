@@ -143,7 +143,7 @@
   <div align="center">
       <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"
+        src="https://cdn.svgporn.com/logos/nodejs-icon.svg"
         alt="nodejs"
         width="50"
         height="50"
