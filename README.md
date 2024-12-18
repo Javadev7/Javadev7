@@ -143,7 +143,7 @@
   <div align="center">
       <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://e7.pngegg.com/pngimages/156/344/png-clipart-node-js-javascript-openshift-node-border-miscellaneous-angle.png"
         alt="nodejs"
         width="50"
         height="50"
