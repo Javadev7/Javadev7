@@ -135,6 +135,14 @@
         height="50"
       />
     </a>
+    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.svgporn.com/logos/ionic-icon.svg"
+        alt="ionic"
+        width="70"
+        height="50"
+      />
+    </a>
   </div>
 
 </td><td valign="top" width="33%">
@@ -208,11 +216,44 @@
       <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
       <img
         src="https://learn.microsoft.com/en-us/media/logos/logo_net.svg"
-        alt="webpack"
+        alt=".Net"
         width="50"
         height="50"
       />
     </a>
+    <a href="https://www.sanity.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.svgporn.com/logos/sanity.svg"
+        alt="sanity"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://strapi.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.svgporn.com/logos/strapi-icon.svg"
+        alt="strapi"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.svgporn.com/logos/graphql.svg"
+        alt="graphql"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.svgporn.com/logos/wordpress-icon.svg"
+        alt="wordpress"
+        width="50"
+        height="50"
+      />
+    </a>
+
   </div>
 
 </td><td valign="top" width="33%">
@@ -230,7 +271,7 @@
     </a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        src="https://cdn.svgporn.com/logos/adobe-photoshop.svg"
         alt="photoshop"
         width="50"
         height="50"
