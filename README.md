@@ -363,4 +363,4 @@
 
 <p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=javaloayza&show_icons=true&locale=en&theme=dark" alt="javaloayza" /></p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=javaloayza&theme=github-dark-blue" alt="GitHub Streak" /> </p> 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=javaloayza&theme=github-dark-blue" alt="GitHub Streak" /> </div> 
