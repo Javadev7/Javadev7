@@ -59,19 +59,18 @@
         height="50"
       />
     </a>
+     <!-- src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" -->
       <a
       href="https://mui.com/material-ui"
       target="_blank"
       rel="noreferrer"
     >
-      <!-- src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" -->
       <img
         src="https://cdn.svgporn.com/logos/material-ui.svg"
         alt="material-ui"
         width="50"
         height="50"
       />
-      
     </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
